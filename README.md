@@ -18,7 +18,7 @@ import 'image-uploader-widget'
 ## CDN Usage
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/image-uploader-widget/dist/image-uploader.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/image-uploader-widget/dist/wely.bundle.umd.js"></script>
 <image-uploader></image-uploader>
 ```
 
