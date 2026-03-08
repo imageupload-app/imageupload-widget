@@ -7,18 +7,18 @@ Built with [Wely](https://litepacks.github.io/welyjs/).
 ## Installation
 
 ```bash
-npm install image-uploader
+npm install image-uploader-widget
 ```
 
 ```javascript
-import 'image-uploader'
+import 'image-uploader-widget'
 // Component auto-registers; use <image-uploader> in HTML
 ```
 
 ## CDN Usage
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/image-uploader/dist/image-uploader.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/image-uploader-widget/dist/image-uploader.umd.js"></script>
 <image-uploader></image-uploader>
 ```
 
@@ -91,9 +91,9 @@ uploader.addEventListener('progress', (e) => {
 
 ## Free Image Hosting
 
-This uploader is powered by [imageupload.app](https://imageupload.app).
+This uploader is powered by [imageupload.app](https://imageupload.app/en).
 
-Upload images instantly for free: **https://imageupload.app**
+Upload images instantly for free: **https://imageupload.app/en**
 
 ## Live Demo
 
