@@ -36,10 +36,10 @@ import 'image-uploader-widget'
 
 | Attribute   | Type   | Default                           | Description                    |
 | ----------- | ------ | --------------------------------- | ------------------------------ |
-| `max-size`  | number | 5                                | Max file size in MB            |
-| `theme`     | string | "light"                           | "light" or "dark"              |
-| `endpoint`  | string | https://imageupload.app/api/upload | Upload API URL                 |
-| `token`     | string | -                                 | API auth token (Bearer header) |
+| `max-size`  | number | 5                                 | Max file size in MB            |
+| `theme`     | string | "light"                              | "light" or "dark"              |
+| `endpoint`  | string | https://imageupload.app/api/1/upload | Upload API URL                 |
+| `token`     | string | -                                    | API auth token (Bearer header) |
 
 ## API Response Example
 
